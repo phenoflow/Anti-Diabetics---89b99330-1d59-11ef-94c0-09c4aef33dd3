@@ -1,0 +1,264 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/anti-diabetics-500unit---primary.py
+inputModule3:
+  class: File
+  path: python/anti-diabetics-novonorm---primary.py
+inputModule4:
+  class: File
+  path: python/anti-diabetics-500mg---primary.py
+inputModule5:
+  class: File
+  path: python/anti-diabetics-soluble---primary.py
+inputModule6:
+  class: File
+  path: python/anti-diabetics-modifiedrelease---primary.py
+inputModule7:
+  class: File
+  path: python/anti-diabetics-100mg---primary.py
+inputModule8:
+  class: File
+  path: python/anti-diabetics-tablet---primary.py
+inputModule9:
+  class: File
+  path: python/anti-diabetics-jardiance---primary.py
+inputModule10:
+  class: File
+  path: python/anti-diabetics-glimepiride---primary.py
+inputModule11:
+  class: File
+  path: python/anti-diabetics-625mg---primary.py
+inputModule12:
+  class: File
+  path: python/anti-diabetics-180mg---primary.py
+inputModule13:
+  class: File
+  path: python/rapid-anti-diabetics---primary.py
+inputModule14:
+  class: File
+  path: python/anti-diabetics-invokana---primary.py
+inputModule15:
+  class: File
+  path: python/anti-diabetics-750mg---primary.py
+inputModule16:
+  class: File
+  path: python/anti-diabetics-amaryl---primary.py
+inputModule17:
+  class: File
+  path: python/anti-diabetics-repaglinide---primary.py
+inputModule18:
+  class: File
+  path: python/anti-diabetics-tolbutamide---primary.py
+inputModule19:
+  class: File
+  path: python/anti-diabetics-alogliptin---primary.py
+inputModule20:
+  class: File
+  path: python/anti-diabetics-liraglutide---primary.py
+inputModule21:
+  class: File
+  path: python/anti-diabetics-20microgram---primary.py
+inputModule22:
+  class: File
+  path: python/anti-diabetics-metabet---primary.py
+inputModule23:
+  class: File
+  path: python/anti-diabetics-850mg---primary.py
+inputModule24:
+  class: File
+  path: python/anti-diabetics-pioglitazone---primary.py
+inputModule25:
+  class: File
+  path: python/anti-diabetics-detemir---primary.py
+inputModule26:
+  class: File
+  path: python/anti-diabetics-insuman---primary.py
+inputModule27:
+  class: File
+  path: python/anti-diabetics-forxiga---primary.py
+inputModule28:
+  class: File
+  path: python/pharmaceutical-anti-diabetics---primary.py
+inputModule29:
+  class: File
+  path: python/anti-diabetics-crystalline---primary.py
+inputModule30:
+  class: File
+  path: python/anti-diabetics-sugar---primary.py
+inputModule31:
+  class: File
+  path: python/anti-diabetics-sterile---primary.py
+inputModule32:
+  class: File
+  path: python/anti-diabetics-penmix---primary.py
+inputModule33:
+  class: File
+  path: python/anti-diabetics-glucophage---primary.py
+inputModule34:
+  class: File
+  path: python/anti-diabetics-rosiglitazone---primary.py
+inputModule35:
+  class: File
+  path: python/anti-diabetics-humulin---primary.py
+inputModule36:
+  class: File
+  path: python/anti-diabetics-nazdol---primary.py
+inputModule37:
+  class: File
+  path: python/anti-diabetics-diamicron---primary.py
+inputModule38:
+  class: File
+  path: python/anti-diabetics-bydureon---primary.py
+inputModule39:
+  class: File
+  path: python/anti-diabetics-100iu---primary.py
+inputModule40:
+  class: File
+  path: python/anti-diabetics-exubera---primary.py
+inputModule41:
+  class: File
+  path: python/anti-diabetics-daonil---primary.py
+inputModule42:
+  class: File
+  path: python/anti-diabetics-innolet---primary.py
+inputModule43:
+  class: File
+  path: python/anti-diabetics-125mg---primary.py
+inputModule44:
+  class: File
+  path: python/anti-diabetics-basal---primary.py
+inputModule45:
+  class: File
+  path: python/anti-diabetics-initard---primary.py
+inputModule46:
+  class: File
+  path: python/anti-diabetics-vipidia---primary.py
+inputModule47:
+  class: File
+  path: python/anti-diabetics-komboglyze---primary.py
+inputModule48:
+  class: File
+  path: python/anti-diabetics-malix---primary.py
+inputModule49:
+  class: File
+  path: python/anti-diabetics-xigduo---primary.py
+inputModule50:
+  class: File
+  path: python/anti-diabetics-120mg---primary.py
+inputModule51:
+  class: File
+  path: python/anti-diabetics-blister---primary.py
+inputModule52:
+  class: File
+  path: python/anti-diabetics-humaject---primary.py
+inputModule53:
+  class: File
+  path: python/anti-diabetics-nateglinide---primary.py
+inputModule54:
+  class: File
+  path: python/anti-diabetics-avandia---primary.py
+inputModule55:
+  class: File
+  path: python/anti-diabetics-lente---primary.py
+inputModule56:
+  class: File
+  path: python/anti-diabetics-avandamet---primary.py
+inputModule57:
+  class: File
+  path: python/anti-diabetics-sitagliptin---primary.py
+inputModule58:
+  class: File
+  path: python/anti-diabetics-bolamyn---primary.py
+inputModule59:
+  class: File
+  path: python/anti-diabetics-mix25---primary.py
+inputModule60:
+  class: File
+  path: python/anti-diabetics-calabren---primary.py
+inputModule61:
+  class: File
+  path: python/anti-diabetics-glucamet---primary.py
+inputModule62:
+  class: File
+  path: python/anti-diabetics-jentadueto---primary.py
+inputModule63:
+  class: File
+  path: python/anti-diabetics-empagliflozin---primary.py
+inputModule64:
+  class: File
+  path: python/anti-diabetics-gliclazide---primary.py
+inputModule65:
+  class: File
+  path: python/abasaglar-anti-diabetics---primary.py
+inputModule66:
+  class: File
+  path: python/anti-diabetics-metformin---primary.py
+inputModule67:
+  class: File
+  path: python/anti-diabetics-exenatide---primary.py
+inputModule68:
+  class: File
+  path: python/anti-diabetics-eucrea---primary.py
+inputModule69:
+  class: File
+  path: python/anti-diabetics-orabet---primary.py
+inputModule70:
+  class: File
+  path: python/anti-diabetics-sachet---primary.py
+inputModule71:
+  class: File
+  path: python/anti-diabetics-protaphane---primary.py
+inputModule72:
+  class: File
+  path: python/glucient-anti-diabetics---primary.py
+inputModule73:
+  class: File
+  path: python/anti-diabetics-monotard---primary.py
+inputModule74:
+  class: File
+  path: python/anti-diabetics-sukkarto---primary.py
+inputModule75:
+  class: File
+  path: python/anti-diabetics-prandin---primary.py
+inputModule76:
+  class: File
+  path: python/anti-diabetics-flexpen---primary.py
+inputModule77:
+  class: File
+  path: python/anti-diabetics-insulatard---primary.py
+inputModule78:
+  class: File
+  path: python/anti-diabetics-mixtard---primary.py
+inputModule79:
+  class: File
+  path: python/anti-diabetics-opticlik---primary.py
+inputModule80:
+  class: File
+  path: python/anti-diabetics-glibenclamide---primary.py
+inputModule81:
+  class: File
+  path: python/anti-diabetics-januvia---primary.py
+inputModule82:
+  class: File
+  path: python/anti-diabetics-glargine---primary.py
+inputModule83:
+  class: File
+  path: python/anti-diabetics-lantus---primary.py
+inputModule84:
+  class: File
+  path: python/anti-diabetics-diabetamide---primary.py
+inputModule85:
+  class: File
+  path: python/anti-diabetics-starlix---primary.py
+inputModule86:
+  class: File
+  path: python/anti-diabetics-canagliflozin---primary.py
+inputModule87:
+  class: File
+  path: python/anti-diabetics-protamine---primary.py
+inputModule88:
+  class: File
+  path: python/output-cases.py
